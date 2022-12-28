@@ -21,6 +21,7 @@
             <div class="container-fluid">
                 <!--Logo-->
                 <a class="navbar-brand" href="#"><i class="fa-brands fa-shopware"></i></a>
+                <!-- <images src="./images/logo.jpg" alt="" class="logo"> -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
