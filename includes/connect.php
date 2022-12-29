@@ -1,8 +1,6 @@
 <?php
 
-$con=mysqli_connect('localhost', 'root', '', 'ecommerce');
-if ($con) {
-    echo "connection succesful";
-} else {
+$con = mysqli_connect('localhost', 'root', '', 'ecommerce');
+if (!$con) {
     die(mysqli_error($con));
 }
