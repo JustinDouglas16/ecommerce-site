@@ -33,7 +33,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-info">
             <div class="container-fluid">
                 <!--Logo-->
-                <a class="navbar-brand" href="/"><i class="fa-brands fa-shopware"></i></a>
+                <a class="navbar-brand" href="#"><i class="fa-brands fa-shopware"></i></a>
                 <nav class="navbar navbar-expand-lg">
                     <ul class="navbar-nav">
                         <li class="nav-item">
